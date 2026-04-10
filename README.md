@@ -1,4 +1,6 @@
-![cat](https://media.tenor.com/vbOYK-N4uDYAAAAj/cat.gif)
+<p align="center">
+  <img src="https://media.tenor.com/vbOYK-N4uDYAAAAj/cat.gif" width="100%"/>
+</p>
 
 ## hey, i'm prithvi
 
