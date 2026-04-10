@@ -8,7 +8,7 @@ always building, breaking, improving.
 
 ---
 
-## 🖥️ tech
+## 🔮 tech
 
 - languages: cpp | c | python | html | css | js  
 - web dev: node | express | mongodb
