@@ -1,3 +1,5 @@
+![cat](https://media.tenor.com/vbOYK-N4uDYAAAAj/cat.gif)
+
 ## hey, i'm prithvi
 
 cse student building real-world stuff and figuring out how things work under the hood.
