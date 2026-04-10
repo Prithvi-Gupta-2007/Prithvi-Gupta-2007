@@ -1,7 +1,3 @@
-i build things that actually work
-
----
-
 ## hey, i'm prithvi
 
 cse student building real-world apps and figuring out how things work under the hood.
