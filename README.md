@@ -22,7 +22,7 @@ always building, breaking, improving.
 
 ## 🌿 currently
 
-- 🧫 exploring new tech  
+- 🧫 exploring new stuff  
 - 🪺 grinding leetcode  
 - 🪄 keeping it sane
 
