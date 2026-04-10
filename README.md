@@ -14,11 +14,11 @@ always building, breaking, improving.
 
 ## ⚡ tech
 
-- languages: cpp • c • python • html • css • js  
-- web: node • express • mongodb • typescript  
+- languages: cpp | c | python | html | css | js  
+- web dev: node | express | mongodb
 - ai/ml: python libraries  
-- tools: git • github  
-- core: problem solving • building • iteration  
+- tools: git | github  
+- core: problem solving | building | iteration  
 
 ---
 
