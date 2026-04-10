@@ -4,25 +4,25 @@ i build things that actually work
 
 ## hey, i'm prithvi
 
-i'm a cse student who enjoys building real-world stuff and understanding how things work under the hood.
+cse student building real-world apps and figuring out how things work under the hood.
 
-always building, breaking, and improving.
+always building, breaking, improving.
 
-> curious mind • builder • learning
+> curious mind • builder • learning in public
 
 ---
 
-## ⚡ tech stack
+## ⚡ tech
 
-- languages: cpp | c |  python | html | css | js  
-- version control: git | github  
-- web dev: node | express | mongodb | typescript  
+- languages: cpp • c • python • html • css • js  
+- web: node • express • mongodb • typescript  
 - ai/ml: python libraries  
-- core: problem solving | innovation  
+- tools: git • github  
+- core: problem solving • building • iteration  
 
 ---
 
-## 🚀 what i'm doing
+## 🚀 currently
 
 - exploring new tech  
 - grinding leetcode  
@@ -30,7 +30,7 @@ always building, breaking, and improving.
 
 ---
 
-## 🌑 philosophy
+## 🌑 mindset
 
 build > talk  
 consistency > motivation  
@@ -40,4 +40,4 @@ execution > ideas
 
 ## 📫 contact
 
-prithvi.gupta.dev@gmail.com
+prithvigupta.exe@gmail.com
