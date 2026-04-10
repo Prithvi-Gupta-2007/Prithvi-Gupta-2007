@@ -14,11 +14,11 @@ always building, breaking, and improving.
 
 ## ⚡ tech stack
 
-- languages: cpp • c • python • html • css • js  
-- version control: git • github  
-- web dev: node • express • mongodb • typescript  
+- languages: cpp | c |  python | html | css | js  
+- version control: git | github  
+- web dev: node | express | mongodb | typescript  
 - ai/ml: python libraries  
-- core: problem solving • innovation  
+- core: problem solving | innovation  
 
 ---
 
