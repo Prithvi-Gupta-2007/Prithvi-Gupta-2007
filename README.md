@@ -22,15 +22,7 @@ always building, breaking, improving.
 
 - exploring new tech  
 - grinding leetcode  
-- keeping it sane  
-
----
-
-## 🌑 mindset
-
-build > talk  
-consistency > motivation  
-execution > ideas  
+- keeping it sane
 
 ---
 
