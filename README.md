@@ -1,10 +1,10 @@
 ## hey, i'm prithvi
 
-cse student building real-world apps and figuring out how things work under the hood.
+cse student building real-world stuff and figuring out how things work under the hood.
 
 always building, breaking, improving.
 
-> curious mind • builder • learning in public
+> curious mind > builder > learning
 
 ---
 
@@ -14,7 +14,7 @@ always building, breaking, improving.
 - web dev: node | express | mongodb
 - ai/ml: python libraries  
 - tools: git | github  
-- core: problem solving | building | iteration  
+- core: problem solving | building
 
 ---
 
