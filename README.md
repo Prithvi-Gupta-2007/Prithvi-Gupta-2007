@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+![cat](https://media.tenor.com/vbOYK-N4uDYAAAAj/cat.gif)
 
 ## hey, i'm prithvi
 
