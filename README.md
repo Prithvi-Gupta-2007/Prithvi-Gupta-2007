@@ -4,7 +4,7 @@ cse student building real-world stuff and figuring out how things work under the
 
 always building, breaking, improving.
 
-> curious mind > builder > learning
+> curious mind • builder • learning
 
 ---
 
