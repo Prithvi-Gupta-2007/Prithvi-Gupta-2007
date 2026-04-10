@@ -36,4 +36,8 @@ execution > ideas
 
 ## 📫 contact
 
-prithvigupta.exe@gmail.com
+✦ email: [prithvigupta.exe@gmail.com](mailto:prithvigupta.exe@gmail.com)  
+✦ linkedin: [prithvi gupta](https://www.linkedin.com/in/prithvi-gupta-846208384/)  
+✦ leetcode: [profile](https://leetcode.com/u/A7gLp3exXX/)  
+✦ coding ninjas: [code360](https://www.naukri.com/code360/profile/8344ece0-a40e-4c4d-91f5-d636ebeb8e9a)  
+✦ instagram: [@prithvi.exe](https://www.instagram.com/_prithvi.exe_/?hl=en)  
