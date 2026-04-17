@@ -12,11 +12,11 @@ always building, breaking, improving.
 
 ## 🔮 tech
 
-- 🧩 languages: cpp | c | python | html | css | js  
-- 🕸️ web dev: node | express | mongodb
-- 🤖 ai/ml: python libraries  
-- 🛠️ tools: git | github  
-- 🎯 core: problem solving | building
+- 🧩 languages : cpp | c | python | html | css | js  
+- 🕸️ backend : node | express | mongodb
+- 🤖 ai/ml : python libraries  
+- 🛠️ tools : git | github  
+- 🎯 core : problem solving | building
 
 ---
 
